@@ -1,0 +1,34 @@
+.table_information_container{
+    width:90%;
+    max-width: 100%;
+    height:auto;
+    border-spacing: 0px 22px;
+    border-collapse: separate;
+    margin:30px auto 0px auto;
+    box-shadow: -4px 0px 12px 0px rgba(26,40,49,.075);
+    border-radius: .35rem 0rem 0rem .35rem;   
+}
+.table_information_container th{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(26,40,49,.075);
+    padding-bottom:10px;
+    text-align: center;
+    font-family: 'ProximaNova-Regular';
+    font-size:21px;
+}
+.table_information_container tr{
+    border-bottom:1px solid black;
+}
+.table_information_container td{
+    width:100px;
+    max-width: 100%;
+    text-align: center;
+    font-family: 'ProximaNova-Light';
+    font-size:21px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(26,40,49,.075);
+    padding-bottom:10px;
+    
+}
